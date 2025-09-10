@@ -28,9 +28,3 @@ def sort_dict(dict):
     return d_list
 
 
-
-print(sort_dict({
-    "Mercury": 57.91,
-    "Venus": 108.2,
-    "Earth": 149.6
-}))
